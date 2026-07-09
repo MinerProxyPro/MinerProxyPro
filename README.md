@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://x.com/rustminersystem">
-      <img src="https://img.shields.io/badge/X-rustminersystem-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+      <img src="https://img.shields.io/badge/X-tcminerproxy-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases/latest">
       <img src="https://img.shields.io/github/v/release/MinerProxyPro/TCMinerProxy?style=flat-square&label=latest%20release" alt="Latest TCMinerProxy release" />
