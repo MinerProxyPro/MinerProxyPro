@@ -30,7 +30,7 @@
     <a href="https://discord.gg/PCKrcNArBE">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://x.com/rustminersystem">
+    <a href="https://x.com/tcminerproxy">
       <img src="https://img.shields.io/badge/X-tcminerproxy-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases/latest">
