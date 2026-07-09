@@ -99,7 +99,7 @@ Miner devices
     |
     | TCP / SSL or optional TMS encrypted compression
     v
-RustMinerSystem
+TCMinerProxy
     |-- third-party pool relay and wallet allocation
     |-- PoolNode real-pool settlement workflow
     |-- dashboard, logs, device stats, and remote operations
