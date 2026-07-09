@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./image/ktlogo.gif" alt="RustMinerSystem logo" width="96" />
+  <img src="./image/ktlogo.gif" alt="TCMinerProxy logo" width="96" />
 
-  <h1>RustMinerSystem</h1>
+  <h1>TCMinerProxy</h1>
 
   <p>
     <strong>Rust-based mining pool relay forwarding software with a brand-new architecture, representing the next-generation top-tier pool relay solution.</strong>
@@ -54,7 +54,7 @@
         The core proxy and operations console for miner access, third-party pool
         forwarding, port management, device statistics, logs, and allocation rules.
       </p>
-      <p><a href="https://github.com/EvilGenius-dot/RustMinerSystem">Open repository</a></p>
+      <p><a href="https://github.com/MinerProxyPro/TCMinerProxy">Open repository</a></p>
     </td>
     <td width="33%" valign="top">
       <img src="./image/rms.png" alt="" width="36" />
@@ -64,9 +64,9 @@
         bandwidth usage and fewer public connections while keeping miners nearby.
       </p>
       <p>
-        <a href="https://github.com/EvilGenius-dot/RMS">RMS3</a>
+        <a href="https://github.com/MinerProxyPro/TMS">TMS3</a>
         |
-        <a href="https://github.com/EvilGenius-dot/RMS/tree/main/OLD_2">RMS2</a>
+        <a href="https://github.com/MinerProxyPro/TMS/tree/main/OLD_2">TMS2</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -77,7 +77,7 @@
         at the coin settlement layer instead of only at the forwarding layer.
       </p>
       <p>
-        <a href="https://minerproxy.org/document/poolnode">Read PoolNode docs</a>
+        <a href="https://tcminerproxy.com/document/poolnode">Read PoolNode docs</a>
       </p>
     </td>
   </tr>
@@ -87,7 +87,7 @@
 
 | Area                  | Capability                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------- |
-| Miner access          | Direct TCP/SSL access, or optional RMS encrypted compression for local sites          |
+| Miner access          | Direct TCP/SSL access, or optional TMS encrypted compression for local sites          |
 | Pool relay            | Forward connected miners to third-party pools with centralized port and route control |
 | Hashrate allocation   | Route configured shares to specified pool wallets or worker names                     |
 | PoolNode mode         | Run a real pool node and apply fees at settlement level                               |
@@ -97,7 +97,7 @@
 ```text
 Miner devices
     |
-    | TCP / SSL or optional RMS encrypted compression
+    | TCP / SSL or optional TMS encrypted compression
     v
 RustMinerSystem
     |-- third-party pool relay and wallet allocation
@@ -109,14 +109,14 @@ RustMinerSystem
 
 | Resource                                                                   | Description                                                        |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Official Website](https://minerproxy.org/)                                | Product overview, downloads, documentation, and multilingual pages |
-| [RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem)       | Core server, proxy engine, dashboard, and PoolNode system          |
-| [RMS3](https://github.com/EvilGenius-dot/RMS)                              | Current secure local client                                        |
-| [RMS2](https://github.com/EvilGenius-dot/RMS/tree/main/OLD_2)              | Legacy secure local client                                         |
-| [RustMinerSystem Docs](https://minerproxy.org/document/rustminersystem)    | Deployment, configuration, and operations guide                    |
-| [RMS Docs](https://minerproxy.org/document/rms)                            | Secure client setup and network optimization workflow              |
-| [RustMinerSystem CLI](https://minerproxy.org/document/rustminersystem-cli) | Command-line management documentation                              |
-| [Downloads](https://minerproxy.org/download/rustminersystem-core-server)   | Core server, secure client, and mobile app downloads               |
+| [Official Website](https://tcminerproxy.com/)                              | Product overview, downloads, documentation, and multilingual pages |
+| [TCMinerProxy](https://github.com/MinerProxyPro/TCMinerProxy)              | Core server, proxy engine, dashboard, and PoolNode system          |
+| [TMS3](https://github.com/MinerProxyPro/TMS)                               | Current secure local client                                        |
+| [RMS2](https://github.com/MinerProxyPro/TMS/tree/main/OLD_2)               | Legacy secure local client                                         |
+| [TCMinerProxy Docs](https://tcminerproxy.com/document/tcminerproxy)        | Deployment, configuration, and operations guide                    |
+| [TMS Docs](https://tcminerproxy.com/document/tms)                          | Secure client setup and network optimization workflow              |
+| [TCMinerProxy CLI](https://tcminerproxy.com/document/tcminerproxy-cli)     | Command-line management documentation                              |
+| [Downloads](https://tcminerproxy.com/download/tcminerproxy-core-server)    | Core server, secure client, and mobile app downloads               |
 
 ## Tech Stack
 
