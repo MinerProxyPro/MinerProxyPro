@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./image/ktlogo.gif" alt="TCMinerProxy logo" width="96" />
 
-  <h1>TCMinerProxy</h1>
+  <h1>TCMinerProxy – Mining Pool Relay Proxy</h1>
 
   <p>
     <strong>Rust-based mining pool relay forwarding software with a brand-new architecture, representing the next-generation top-tier pool relay solution.</strong>
