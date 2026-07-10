@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
-  <img src="./image/rustminer-product-demo.webp" alt="TCMinerProxy product demo" width="100%" />
+  <img src="./image/rustminer-product-demo.gif" alt="TCMinerProxy product demo" width="100%" />
 </p>
 
 ## Product Map
